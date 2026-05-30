@@ -1,0 +1,12 @@
+# Ignore Python source code and runtime cache
+*.py
+__pycache__/
+*.pyc
+
+# Ignore temp checking and debug directories
+output_checked/
+output_checked_new/
+output_test/
+
+# Ignore raw scraped dump
+output/scraped_raw.txt
